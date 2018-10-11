@@ -1,0 +1,4 @@
+import urllib.parse as p
+
+print(p.urlparse("https://xe.thanhnien.vn/rss/home.rss").hostname)
+
