@@ -83,6 +83,14 @@ def getdatafrom(hostname, link):
 
     return switcher[hostname](link)
 
+def saveFile(content, path):
+    # check file exist
+    if os.path.isfile(path):
+        return
+    file = open(path, "w")
+    file.write(content)
+    file.close()
+
 
 count = 0
 for k_class, v_rsses in rss.items():
@@ -98,7 +106,9 @@ for k_class, v_rsses in rss.items():
             if post_content == "":
                 continue
             count += 1
-            print(post.link)
+
+            saveFile(post_content, os.getcwd() + "/data/" + k_class + "/" + post.link.split("/")[-1])
+            print(post.link.split("/")[-1])
             print(post_content)
             print("==================================")
 
