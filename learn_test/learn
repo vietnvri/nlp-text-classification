@@ -1,4 +1,4 @@
-import urllib.parse as p
+from pyvi import ViTokenizer, ViPosTagger
 
-print(p.urlparse("https://xe.thanhnien.vn/rss/home.rss").hostname)
-
+print(ViTokenizer.tokenize("Tôi tên là        Nguyễn           Văn Viết, sinh viên trường Đại học Bách Khoa Hà Nội"))
+# print(ViPosTagger.postagging("Tôi tên là Nguyễn Văn Viết, sinh viên trường Đại học Bách Khoa Hà Nội"))

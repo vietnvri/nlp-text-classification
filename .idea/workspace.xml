@@ -2,8 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85b7bc11-4969-4747-8f77-07758ab16181" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/finalcode/nlpwithpython.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrapweb.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrapweb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/14-tai-xe-xe-tai-dan-hang-ngang-tren-quoc-lo-bi-phat-gan-23-trieu-dong-3822043.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/3-hoc-sinh-tieu-hoc-bi-dam-o-khi-ngu-trua-o-nha-co-giao-nghi-huu-1012745.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/96-000-ty-dong-keo-giam-ket-xe-o-tp-hcm-3823468.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ban-quan-ly-cao-toc-da-nang-quang-ngai-bi-kiem-diem-3823352.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/bat-giam-doc-chi-nhanh-van-phong-dang-ky-dat-dai-ben-cat-1012645.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/bat-hai-ke-cuop-giat-gay-chet-nguoi-1012907.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/be-gai-bi-dien-giat-tai-ben-ninh-kieu-khi-trieu-cuong-dang-cao-3823525.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ben-xe-hien-dai-nhat-ca-nuoc-duoc-de-nghi-chuyen-lam-ben-xe-hang-3821415.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/bo-truong-giao-thong-cao-toc-moi-xay-khong-the-hong-do-mua-3822331.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/bon-du-an-9-400-ty-khanh-thanh-trong-thang-10-o-ha-noi-3822962.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/cac-tai-xe-noi-gi-khi-cao-toc-da-nang-quang-ngai-dung-thu-phi-1012759.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/cach-chuc-giam-doc-trung-tam-van-hoa-danh-nu-nhan-vien-1012956.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/cau-van-lang-noi-phu-tho-va-ha-noi-duoc-thong-xe-3821938.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chay-can-ho-o-khu-linh-dam-hang-tram-nguoi-thao-chay-3823082.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chay-can-ho-tang-12-o-da-nang-khien-nhieu-ho-dan-phai-so-tan-3822448.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chay-co-so-phan-phoi-bia-1012999.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chay-kho-lua-gao-van-loi-1-luc-rang-sang-1013004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chay-tai-tang-31-chung-cu-hang-tram-nguoi-dan-hoang-loan-thao-chay-1012735.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chi-khoang-100-ti-dong-de-thu-hoi-ben-du-thuyen-cua-vu-nhom-1012918.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chong-phat-hien-vo-chet-trong-tu-the-treo-co-1012778.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chu-dau-tu-cao-toc-hon-34-000-ty-bi-phe-binh-vi-cham-khac-phuc-o-ga-3822614.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chuyen-dong-o-da-nang-sau-mot-nam-nhieu-lanh-dao-bi-ky-luat-3813638.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chuyen-gia-can-tho-ngap-sau-do-dat-lun-3822056.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chuyen-gia-de-xuat-mo-rong-tp-hcm-ve-huong-long-an-3822753.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/chuyen-gia-lo-viet-nam-mai-la-thau-phu-khi-xay-duong-sat-cao-toc-3822587.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/co-giao-16-nam-day-tre-khuyet-tat-3823376.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/container-boc-chay-du-doi-khi-dang-chay-1012666.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/cu-tri-chat-van-xay-dung-nha-hat-1500-ti-khong-lay-y-kien-nguoi-dan-1012754.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/da-nang-nguoi-dan-tiep-tuc-vay-nha-may-thep-o-hoa-lien-1012703.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/danh-giay-ban-dua-tran-lot-du-khach-truy-trach-nhiem-lanh-dao-ubnd-cong-an-phuong-1012894.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/dieu-tra-thong-tin-mot-thanh-nien-bo-thuoc-diet-co-vao-be-nuoc-hang-xom-1012795.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/dieu-tra-xem-xet-lai-toi-danh-voi-ca-si-chau-viet-cuong-1012801.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/doi-no-thue-thach-thuc-co-quan-cong-quyen-hoan-toan-co-the-xu-ly-hinh-su-1012886.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/dung-vu-luc-hiep-dam-be-gai-15-tuoi-3-nghi-pham-bi-bat-giu-1012695.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/duong-vanh-dai-hon-2-ty-usd-cua-ha-noi-3821913.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/evn-hanoi-tu-van-bao-ve-hanh-lang-an-toan-cong-trinh-luoi-dien-cao-ap-3822288.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/giam-doc-trung-tam-van-hoa-bi-cach-chuc-vi-danh-nu-nhan-vien-3823429.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/giau-hon-700-vien-ma-tuy-tong-hop-trong-ong-quan-1012947.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ha-noi-thong-xe-cau-vuot-hon-300-ty-dong-o-nut-giao-an-duong-3822263.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ham-dan-o-cong-truong-xay-dung-sat-bo-song-thach-han-3823153.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/han-quoc-an-xa-cho-lao-dong-viet-nam-cu-tru-bat-hop-phap-ve-nuoc-3821994.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/hang-tram-nguoi-dan-da-nang-lai-vay-nha-may-thep-o-nhiem-3823344.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/hang-tram-nguoi-tat-bat-sua-chua-cho-gan-tram-tuoi-o-sai-gon-3818304.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/hoi-nghi-wta-binh-duong-ra-tuyen-bo-chung-1012796.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/hon-100-tan-thanh-long-sap-xuat-khau-bi-thieu-rui-3822412.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/hue-cam-ket-4-000-ho-dan-song-tot-hon-khi-di-doi-khoi-di-tich-kinh-thanh-3821918.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/khai-mac-dien-dan-hai-quan-tay-thai-binh-duong-1012686.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/khoi-to-nguoi-giam-ho-bao-hanh-be-6-tuoi-1012952.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/khoi-to-nguyen-hieu-truong-nhan-hang-tram-trieu-dong-tien-chay-viec-1013013.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/khoi-to-nu-quai-lua-dao-xin-viec-chiem-doat-tien-ti-1012983.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/khu-o-chuot-cua-hon-15-000-nguoi-trong-di-tich-kinh-thanh-hue-3822399.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/kiem-tra-giam-sat-phai-thuong-xuyen-toan-dien-1012893.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/lat-vo-lai-tren-song-mot-nguoi-dan-ong-mat-tich-1012713.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/lien-tiep-xay-ra-tai-nan-lao-dong-chet-nguoi-trong-nganh-than-tai-quang-ninh-1012789.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/mat-an-toan-giao-thong-tai-cong-trinh-cau-vuot-dau-giay-1012963.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/mien-bac-nhieu-noi-duoi-13-do-c-3822363.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/mien-trung-vao-cao-diem-mua-lu-mien-nam-con-ngap-do-trieu-cuong-1012812.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/nguoi-dan-can-tho-quay-cuong-trong-trieu-cuong-cao-bat-thuong-3821869.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/nha-hat-lon-ha-noi-duoc-xay-dung-trung-tu-nhu-the-nao-3822789.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/nhan-ra-chong-tu-tam-anh-nga-mau-tim-thay-trong-ho-chon-liet-si-1012768.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/nhieu-de-bao-o-mien-tay-bi-vo-trong-dot-trieu-cuong-cao-nhat-40-nam-3822821.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/nhieu-nha-hat-o-ha-noi-hoat-dong-cam-chung-3823250.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/o-to-chay-tro-khung-luc-rang-sang-chu-xe-noi-nhieu-lan-bi-ke-la-uy-hiep-1012688.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ong-le-phuoc-hoai-bao-xin-nghi-viec-khong-luong-de-di-hoc-3822319.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ong-nguyen-van-binh-noi-voi-1-000-sinh-vien-ve-tuoi-20-giau-co-3821945.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/phat-hien-o-cho-vay-nang-lai-tam-giu-4-doi-tuong-1012958.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/quan-trung-tam-sai-gon-siet-an-ninh-bao-ve-du-khach-3823304.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/quang-truong-trung-tam-thu-thiem-duoc-kien-nghi-mang-ten-chu-tich-ho-chi-minh-3823265.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ru-ban-be-thue-nha-nghi-dap-da-vi-gian-gia-dinh-1012709.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ruou-vao-nho-chuyen-bi-cam-yeu-dam-chet-me-cua-nguoi-trong-mong-1012705.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/san-bay-van-don-du-kien-khai-thac-tu-ngay-25-12-3822692.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/san-van-dong-hang-day-sau-60-nam-xay-dung-3823189.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ta-hoa-khi-con-no-ban-nha-bien-mat-cung-mon-no-hang-chuc-ti-dong-1012699.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/ta-hoa-phat-hien-thay-lang-chet-tai-nha-rieng-voi-vet-thuong-tren-dau-1012698.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/tam-giu-2-doi-tuong-nghi-lam-gia-giay-to-1012719.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/tam-giu-5-xe-dua-don-hoc-sinh-hoan-cai-tu-xe-16-cho-het-han-dang-kiem-1012702.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/tau-ca-chim-o-vung-bien-truong-sa-hon-40-nguoi-thoat-nan-1012570.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/thang-ham-cho-thieu-uy-cong-an-tu-vong-vi-ngo-doc-ma-tuy-1012772.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/thanh-pho-ha-long-se-duoc-mo-rong-dia-gioi-hanh-chinh-3823398.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/thu-tuong-yeu-cau-thanh-tra-du-an-quoc-lo-ngan-ti-nhu-ruong-cay-1012777.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/tong-cuc-duong-bo-o-ga-tren-cao-toc-da-nang-quang-ngai-do-loi-thi-cong-3822154.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/tp-hcm-chi-hon-5-600-ty-xay-3-benh-vien-o-ngoai-thanh-3823458.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/triet-pha-xuong-tai-che-dau-trai-phep-gay-o-nhiem-moi-truong-1012765.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/trieu-cuong-dang-cao-mot-thieu-nien-bi-dien-giat-khi-choi-o-ben-ninh-kieu-1013003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/trung-bo-mua-giong-dien-rong-bac-bo-lanh-tro-lai-tu-dau-tuan-toi-1012962.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/tuoi-xang-dot-nha-bo-vo-luc-nua-dem-2-nguoi-bong-nang-1012625.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/uong-ruou-ngam-re-cay-doc-hai-nguoi-chet-3822571.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/viet-nam-lan-thu-ba-dang-cai-dai-le-phat-dan-vesak-2019-3822732.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/vn-tho-nhi-ky-can-nang-kim-ngach-thuong-mai-len-4-ti-usd-1012895.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/vo-chong-ngheo-tra-lai-tien-vang-cho-nguoi-danh-roi-1012942.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/vo-liet-si-nhan-ra-chong-tu-buc-anh-trong-ho-chon-tap-the-3823295.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/vu-tuoi-xang-dot-nha-bo-vo-luc-nua-dem-be-trai-6-tuoi-da-tu-vong-1012814.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/vua-ra-tu-da-trom-45-vien-da-phong-thuy-cua-khach-tam-bien-1012964.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/xe-container-tong-sap-6-can-nha-ven-sai-gon-3823422.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/xe-tai-cho-cat-tong-vao-2-nha-dan-o-thanh-hoa-luc-rang-sang-1012982.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/xe-tai-dam-sap-ba-nha-dan-ven-quoc-lo-10-3823486.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/thoi_su/y-kien-da-chieu-ve-nha-hat-giao-huong-o-thu-thiem-3823399.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn_test/learn" beforeDir="false" afterPath="$PROJECT_DIR$/learn_test/learn" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,36 +113,43 @@
     <session id="-527041872">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
           <entry key="learn" value="1" />
-          <entry key="py" value="5" />
+          <entry key="py" value="10" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="Python" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="learn" value="79" />
-          <entry key="py" value="1986" />
+          <entry key="dummy" value="1" />
+          <entry key="learn" value="229" />
+          <entry key="py" value="3002" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2065" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="3231" />
         </counts>
       </usages-collector>
     </session>
@@ -52,38 +157,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/scrapweb.py">
+        <entry file="file://$PROJECT_DIR$/finalcode/nlpwithpython.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+            <state relative-caret-position="762">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/finalcode/stopword/stopwords.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_test/w2v.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn_test/learn">
+        <entry file="file://$PROJECT_DIR$/learn_test/tokenizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="691">
+              <caret line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -91,6 +215,11 @@
       <find>i-su/chay-nha-cap-4-o-hu</find>
       <find>khong chua</find>
       <find>ui-phuong-nga-va-my-nhan-hoa-hau-hoa-binh</find>
+      <find>print</find>
+      <find>.</find>
+      <find>: 2,</find>
+      <find>tfidf</find>
+      <find>ifidf</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -99,16 +228,19 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/learn_test/learn" />
         <option value="$PROJECT_DIR$/scrapweb.py" />
+        <option value="$PROJECT_DIR$/learn_test/learn" />
+        <option value="$PROJECT_DIR$/learn_test/tokenizer.py" />
+        <option value="$PROJECT_DIR$/finalcode/stopword/stopwords.txt" />
+        <option value="$PROJECT_DIR$/finalcode/nlpwithpython.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="584" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="61" />
     <option name="y" value="24" />
-    <option name="width" value="928" />
-    <option name="height" value="984" />
+    <option name="width" value="930" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,7 +258,13 @@
             <path>
               <item name="textclassfication" type="b2602c69:ProjectViewProjectNode" />
               <item name="textclassfication" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="finalcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="textclassfication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="textclassfication" type="462c0819:PsiDirectoryNode" />
+              <item name="finalcode" type="462c0819:PsiDirectoryNode" />
+              <item name="stopword" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="textclassfication" type="b2602c69:ProjectViewProjectNode" />
@@ -142,7 +280,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/finalcode" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -156,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scrapweb">
+  <component name="RunManager" selected="Python.nlpwithpython">
     <configuration name="learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="textclassfication" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,6 +313,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_test/learn" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nlpwithpython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="textclassfication" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/finalcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/finalcode/nlpwithpython.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +366,13 @@
     <list>
       <item itemvalue="Python.scrapweb" />
       <item itemvalue="Python.learn" />
+      <item itemvalue="Python.nlpwithpython" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scrapweb" />
+        <item itemvalue="Python.nlpwithpython" />
         <item itemvalue="Python.learn" />
+        <item itemvalue="Python.scrapweb" />
       </list>
     </recent_temporary>
   </component>
@@ -224,21 +390,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="-11" width="1861" height="1092" extended-state="6" />
-    <editor active="true" />
+    <frame x="61" y="24" width="930" height="1056" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16993465" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23263507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.49895397" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45689654" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297414" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -257,6 +422,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/thoi_su/mien-bac-nhieu-noi-duoi-13-do-c-3822363.html" />
     <entry file="file:///usr/lib/python3.5/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -264,20 +430,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/thoi_su/mien-bac-nhieu-noi-duoi-13-do-c-3822363.html">
+    <entry file="file://$PROJECT_DIR$/learn_test/learn">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="73" lean-forward="true" selection-start-column="73" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scrapweb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -290,10 +446,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn_test/learn">
+    <entry file="file://$PROJECT_DIR$/scrapweb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="425">
+          <caret line="58" column="51" selection-start-line="58" selection-start-column="51" selection-end-line="58" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_test/tokenizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_test/w2v.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/gensim/corpora/dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="117" column="12" selection-start-line="117" selection-start-column="12" selection-end-line="117" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalcode/stopword/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalcode/nlpwithpython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
