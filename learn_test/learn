@@ -1,4 +1,0 @@
-from pyvi import ViTokenizer, ViPosTagger
-
-print(ViTokenizer.tokenize("Tôi tên là        Nguyễn           Văn Viết, sinh viên trường Đại học Bách Khoa Hà Nội"))
-# print(ViPosTagger.postagging("Tôi tên là Nguyễn Văn Viết, sinh viên trường Đại học Bách Khoa Hà Nội"))
